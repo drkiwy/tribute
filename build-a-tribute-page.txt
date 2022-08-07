@@ -1,0 +1,76 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <main id="main">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="freeCodeCamp Tribute Page" />
+    <title id="title">Tribute to Helena Bohem Carter</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <header>Helena Bohem Carter</header>
+      <div id="img-div">
+      <img id="image" src="https://scontent.fcra2-1.fna.fbcdn.net/v/t1.6435-9/44122138_2461919713848233_8968274876670410752_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=MCJpvyjr1UkAX-IvRom&_nc_ht=scontent.fcra2-1.fna&oh=00_AT8B8dyhNU9APhCYg0-d0Xmz3HjXv0h11csqdWKLP12NBw&oe=631664D8">
+      <figcaption id="img-caption">
+      <legend id="img-caption">Helena Bohen Carter is one of greatest actresses in the world</legend></figcaption>
+      </div>
+      <div id="tribute-info">
+        <p>Helena Bonham Carter was born on 24th of May <strong>1966</strong></p>
+        <p>Helena is one of the most known actresses in the world. She played characters that we love or hate, but never forget. She is best known for playing <strong>Bellatrix Lestrange</strong> in <strong>Harry Potter Saga</strong> or the <strong>Red Queen</strong> from the <strong>Alice in Wonderland</strong>
+        <p>The most important movies from Helena carrier are: </p>
+        <p><em>1985</em> - A room with a view</p>
+        <p><em>1986</em> - Lady Jane</p>
+        <p><em>1990</em> - Hamlet</p>
+        <p><em>1992</em> - Howards End</p>
+        <p><em>1994</em> - Marry Shelley's Frankenstein</p>
+        <p><em>1995</em> - Mighty Aphrodite</p>
+   <p><em>1997</em> - The Wings of the dove</p> 
+   <p><em>1999</em> - Fight Club</p>    
+   <p><em>2005</em> - Wallace & Gromit: The Curse of the Were-Rabbit</p>
+   <p><em>2007 - 2011</em> - The Harry Potter Saga</p>
+   <p><em>2010</em> - The King's Speech</p>
+   <p><em>2012</em> - Les Miserables</p>
+   <p><em>2012</em> - Great Expectations</p>
+   <p><em>2015</em> - Cinderella</p>
+   <p><em>2018</em> - Ocean's 8</p>
+   <p><em>2020</em> - Enola Holmes</p>
+        </div>
+        <div>
+          <a id="tribute-link" href="https://en.wikipedia.org/wiki/Helena_Bonham_Carter" target="_blank"></a>
+          </div>
+
+    </body>
+  </main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+header {
+  display: inline;
+  text-align: justify;
+  direction: left;
+  width: 15px;
+  font-family: verdana;
+  font-size: 16px;
+  }
+
+#image{
+  display: block;
+  direction: center;
+  width: 450px;
+  max-width: 100%;
+  height: auto;
+}
+
+.img {
+  display: block;
+  max-width
+}
+
+** end of undefined **
+
